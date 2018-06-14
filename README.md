@@ -1,0 +1,2 @@
+# linuxtrad
+javascript tutorial
